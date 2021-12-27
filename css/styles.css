@@ -861,16 +861,3 @@ a:hover.back-to-top {
 	/* end of details */
 }
 /* end of min-width 1200px */
-
-/*Max-width 500px*/
-@media (max-width: 500px) {
-
-/*Header*/
-.header .h1-large {
-	font-size: 5rem;
-	padding-top: 0.5rem;
-	
-}
-/*end of header*/
-}
-/*end of max-width 500px*/
