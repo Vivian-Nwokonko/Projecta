@@ -388,7 +388,7 @@ input[type='checkbox'] {
 	text-align: center;
 }
 
-.header .h1-large {
+.header .h2-large {
 	margin-bottom: 1.75rem;
 	color: #ffffff;
 }
@@ -811,7 +811,7 @@ a:hover.back-to-top {
 @media (min-width: 1200px) {
 
 	/* General Styles */
-	.h1-large {
+	.h2-large {
 		font-size: 3.75rem;
 		line-height: 4.625rem;
 	}
